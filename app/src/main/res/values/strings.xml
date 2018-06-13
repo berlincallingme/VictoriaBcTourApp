@@ -4,26 +4,56 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bc_museum">Royal BC Museum</string>
-    <string name="bc_museum_info">Address: 675 Belleville St, Victoria</string>
+    <string name="bc_museum_info">
+        Address:  675 Belleville St, Victoria,
+        Opening Times: 10AM-5PM Mon-Sun
+        About: Royal British Columbia Museum consists of The Province of British Columbia's natural and human history.</string>
     <string name="inner_harbour">Victoria Inner Harbour</string>
-    <string name="inner_harbour_info">Inner-Harbour PathwayVictoria, BC, Canada</string>
-    <string name="beacon_hill_park">Beacon Hill Park</string>
-    <string name="beacon_info">Beacon Hill Park is a 75 ha park located along the shore of Juan de Fuca Strait in Victoria, British Columbia.</string>
+    <string name="inner_harbour_info">
+Address:Inner-Harbour PathwayVictoria, BC, Canada
+Opening Times: 12AM-12AM Mon-Sun
+About: Victoria Harbour is a harbour, seaport, and seaplane airport.</string>
+    <string name="beacon_hill_park">
+        Beacon Hill Park
+    </string>
+    <string name="beacon_info">
+      Address: 100 Cook St, Victoria, BC, Canada
+        Opening Times: 12AM-12AM Mon-Sun
+        About: Beacon Hill Park is a 200 acre park located along the shore of Juan de Fuca Strait
+    </string>
     <string name="dallas_road">Dallas Road</string>
-    <string name="dallas_road_info">The waterfront green space along Dallas Road is a popular destination, enjoyed by many people for a variety of uses. Located between Douglas Street and Clover Point, the green space offers a flat walking path and access to the stretch of beaches and shoreline.</string>
+    <string name="dallas_road_info">
+        Address: The BreakwaterVictoria, BC
+        Opening Times: 12AM-12AM Mon-Sun
+        About: The Ogden Point Breakwater is a popular walk near downtown Victoria that follows the cement structure from Dallas Road
+    </string>
 
     <string name="rebar">Rebar</string>
-    <string name="rebar_info">At Rebar, eating modern means being aware: aware of where your food comes from and preparing and serving food responsibly, from seed to table.</string>
+    <string name="rebar_info">
+        Address: 50 Bastion Square, Victoria, BC
+        Opening Times: 11-9
+        About: Contemporary vegetarian eatery with a low-key vibe
+</string>
     <string name="noodle_box">Noodle Box</string>
-    <string name="noodle_box_info">Hand - made from fresh ingredients like non-gmo vegetables sourced locally whenever possible. Our special sauces are house made, with no added MSG.
-We support sustainable and ethical producers, with farm-to-plate practices that deliver a premium product with trusted transparency. </string>
-    <string name="bc_whale_tours">BC Whale Tours Victoria</string>
-    <string name="bc_whale_tours_info">1234 Wharf St, Victoria</string>
+    <string name="noodle_box_info">
+        Address: 818 Douglas St, Victoria, BC
+        Opening Times: 11-9
+        About: Southeast Asian street food, made fresh for westcoast tastes.
+    </string>
+    <string name="bc_whale_tours">BC Whale Tours</string>
+
+    <string name="bc_whale_tours_info">
+        Address:1234 Wharf St, Victoria, BC
+        Opening Times: 	8:30AM–7PM
+        About: Viewing of residential and transients Orca pods, migrating Humpback Whales, Grey Whales and other marine animals that reside in our coastal waters.</string>
     <string name="prince_of_whales">Prince of Whales Whale Watching</string>
-    <string name="prince_of_whales_info">812 Wharf St, Victoria, BC</string>
-    <string name="category_attractions">812 Wharf St, Victoria, BC</string>
-    <string name="category_restaurants">812 Wharf St, Victoria, BC</string>
-    <string name="category_beauty">812 Wharf St, Victoria, BC</string>
-    <string name="category_whale">812 Wharf St, Victoria, BC</string>
+    <string name="prince_of_whales_info">
+        Address:812 Wharf St, Victoria, BC
+        Opening Times: 7AM–11PM
+        About: Prince of Whales Whale Watching is the largest, safest and most reliable whale watching company with departures from Victoria, BC</string>
+    <string name="category_attractions">Day-Trip</string>
+    <string name="category_restaurants">Food</string>
+    <string name="category_beauty">Beauty</string>
+    <string name="category_whale">Whale Watching</string>
 
 </resources>
